@@ -145,6 +145,9 @@ npm run build
 
 ### 可視化ページ
 
+![image](https://github.com/user-attachments/assets/9b906bc4-f564-492b-8f36-55ca119e374c)
+
+
 可視化ページはこのアプリケーションの核心機能エリアです：
 
 1. **音楽の選択**：
